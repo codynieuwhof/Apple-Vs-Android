@@ -1,0 +1,57 @@
+.main {  
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  padding: 100PX;
+}
+
+h2{
+    font-family: 'Proza Libre', sans-serif;
+
+  }
+
+
+
+body {
+  background-color:#cabfb6;
+}
+
+.Android{
+  background-color: #a4c93b;
+}
+
+.Apple{
+  background-color: #b6bcca;
+}
+
+img{
+  width: 600px;
+}
+button{  
+ font-size: 20 px;
+ padding: 5px;
+ width: 90px;
+ border-radius: 3px;
+}
+.link:hover{
+  border: 2px solid black;
+
+}
+.link{
+  text-align: center;
+  background-color: #c9793b;
+  padding: 10px;
+  width: 200px;
+  border-radius: 5px;
+  margin: auto;
+}
+.thing{
+  text-decoration: none;
+  color: black ;
+  
+}
+
+/* .main:hover {
+  background-color: black;
+} */
